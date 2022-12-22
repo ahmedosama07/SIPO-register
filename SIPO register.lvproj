@@ -15,12 +15,17 @@
 		<Item Name="D_FlipFlop.vi" Type="VI" URL="../D_FlipFlop.vi"/>
 		<Item Name="D_FlipFlopWithReset.vi" Type="VI" URL="../D_FlipFlopWithReset.vi"/>
 		<Item Name="JK_FlipFlop.vi" Type="VI" URL="../JK_FlipFlop.vi"/>
-		<Item Name="Nand3.vi" Type="VI" URL="../Nand3.vi"/>
+		<Item Name="Nand3.vit" Type="VI" URL="../Nand3.vit"/>
 		<Item Name="SIPO.vi" Type="VI" URL="../SIPO.vi"/>
 		<Item Name="SR_FlipFlop.vi" Type="VI" URL="../SR_FlipFlop.vi"/>
 		<Item Name="SR_FlipFlopWithClear.vi" Type="VI" URL="../SR_FlipFlopWithClear.vi"/>
 		<Item Name="T_FlipFlop.vi" Type="VI" URL="../T_FlipFlop.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="D_FlipFlop 1-1.vi" Type="VI" URL="../D_FlipFlop 1-1.vi"/>
+			<Item Name="D_FlipFlop 2-1.vi" Type="VI" URL="../D_FlipFlop 2-1.vi"/>
+			<Item Name="D_FlipFlop 3-1.vi" Type="VI" URL="../D_FlipFlop 3-1.vi"/>
+			<Item Name="D_FlipFlop 4-1.vi" Type="VI" URL="../D_FlipFlop 4-1.vi"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
